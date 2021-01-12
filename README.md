@@ -1,3 +1,8 @@
+# COVID-19 Data Tracker
+COVID-19 Data Tracker built with React.js, the disease.sh API, & Firebase. 
+
+![Alt text](/covid19.JPG?raw=true "COVID19")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
